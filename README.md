@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/prosun25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prosun25" height="30" width="40" /></a>
 <a href="https://fb.com/abdun nafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdun nafi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdun_nafi_prosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdun_nafi_prosun" height="30" width="40" /></a>
-<a href="https://discord.gg/716500964164763648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="716500964164763648" height="30" width="40" /></a>
+<a href="https://discord.com/users/716500964164763648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="716500964164763648" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: <img
