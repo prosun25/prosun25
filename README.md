@@ -31,7 +31,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prosun25" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/abdun nafi" target="blank">
+<a href="https://www.facebook.com/prosun25/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdun nafi" height="30" width="40" />
 </a>
 
