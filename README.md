@@ -96,10 +96,13 @@
     <a href="https://ko-fi.com/prosun25"> 
         <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prosun25" />
     </a>
-</p> <br><br><br>
+</p> <br><br>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prosun25&" alt="prosun25" />
-</p>
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=prosun25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 ![Waves](https://raw.githubusercontent.com/prosun25/prosun25/refs/heads/main/wave.svg)
